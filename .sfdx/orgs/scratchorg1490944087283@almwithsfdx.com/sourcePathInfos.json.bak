@@ -2,14 +2,14 @@
     [
         "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app",
         {
-            "state": "n",
             "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1490943688543,
             "changeTime": 1490943688543,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1490943688544,
             "changeTime": 1490943688544,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1490943688544,
             "changeTime": 1490943688544,
             "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1490943688544,
             "changeTime": 1490943688544,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,16 +62,55 @@
     [
         "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX",
         {
-            "state": "n",
             "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1490943957166,
             "changeTime": 1490943957166,
             "contentHash": "13be302e7b849267b45b48e0a4dd3c4b08b7f47a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1490953656287,
+            "changeTime": 1490953656287,
+            "contentHash": "57512b7b0fdb9420c88ccad2e773f1785cb6c2c7",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes\\MyFirstClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes\\MyFirstClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 143,
+            "modifiedTime": 1490953789625,
+            "changeTime": 1490953789625,
+            "contentHash": "cb9c6a1b2899c3128dd08a7117685349c3e68245"
+        }
+    ],
+    [
+        "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Projects\\HeroKuPipeline\\ALMWithSFDX\\force-app\\main\\default\\classes\\MyFirstClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1490953789624,
+            "changeTime": 1490953789624,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
         }
     ]
 ]
