@@ -1,0 +1,10 @@
+{
+  "Company": "ALMWithSFDX",
+  "Country": "US",
+  "LastName": "Anuj",
+  "Email": "anuj.kumar@saasfocus.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true
+  }
+}
